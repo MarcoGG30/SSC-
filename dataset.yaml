@@ -1,0 +1,5 @@
+train: C:\Users\marco\OneDrive\Escritorio\peaton\dataset\train
+val: C:\Users\marco\OneDrive\Escritorio\peaton\dataset\val
+test: 
+nc: 5
+names: ["Parar", "Accidente", "Gracias", "Prisa", "Discapacitado"]
